@@ -128,9 +128,7 @@ def process_file(
     #out_path = os.path.join(output_dir, out_filename)
     out_path = Path(output_dir) / out_filename
 
-    print(f"\n{'='*70}")
     print(f"Processing: {filename}, which will be saved as {out_filename}")
-    print(f"{'='*70}")
 
     df = pd.read_csv(filepath)
     print(f"  {len(df)} rows, columns: {', '.join(df.columns)}")
@@ -232,10 +230,9 @@ def main():
 
         process_file(filepath, args.output_dir, args.columns, ner, pos)
 
-    print(f"\n{'='*70}")
     print("ALL FILES PROCESSED")
     print(f"Output folder: {args.output_dir}")
-    print(f"{'='*70}")
+    print("Woohoo!")
 
 
 if __name__ == '__main__':
