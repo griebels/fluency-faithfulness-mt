@@ -1,0 +1,114 @@
+Book_id,Title,Author,Gender,Source_Lang,Pub_Year,Duplicate,Num_Translations
+t0,A Confession,Leo Tolstoy,M,ru,1882,n,2
+t1,A Hero Of Our Time,Mikhail Lermontov,M,ru,1840,n,2
+t2,A Raw Youth,Fyodor Dostoevsky,M,ru,1875,n,2
+t3,Against The Grain,Joris Karl Huysmans,M,fr,1884,n,2
+t4,Amerika,Franz Kafka,M,de,1927,n,2
+t5,Anna Karenina,Leo Tolstoy,M,ru,1878,n,2
+t6,Around The World In Eighty Days,Jules Verne,M,fr,1873,n,2
+t7,Bel Ami,Guy De Maupassant,M,fr,1885,n,2
+t8,Beware Of Pity,Stefan Zweig,M,de,1939,n,2
+t9,Botchan,Natsume Soseki,M,ja,1906,n,2
+t10,Brothers Karamazov,Fyodor Dostoevsky,M,ru,1879,n,3
+t11,Buddenbrooks,Thomas Mann,M,de,1901,n,2
+t12,Call To Arms,Lu Xun,M,zh,1923,n,2
+t13,Candide,Voltaire,M,fr,1759,n,2
+t14,Crime And Punishment,Fyodor Dostoevsky,M,ru,1866,n,3
+t15,Dead Souls,Nikolai Gogol,M,ru,1842,n,4
+t16,Death In Venice,Thomas Mann,M,de,1912,n,3
+t17,Demons,Fyodor Dostoevsky,M,ru,1871,n,2
+t18,Doctor Glass,Hjalmar Soderberg,M,sv,1905,n,2
+t19,Dom Casmurro,Machado De Assis,M,pt,1899,n,2
+t20,Don Quixote,Miguel De Cervantes,M,es,1605,n,2
+t21,Dream Of The Red Chamber,Cao Xueqin,M,zh,1791,n,2
+t22,Dream Story,Arthur Schnitzler,M,de,1926,n,2
+t23,Elective Affinities,Johann Wolfgang Von Goethe,M,de,1809,n,2
+t24,Envy,Yury Olesha,M,ru,1927,n,2
+t25,Fathers And Sons,Ivan Turgenev,M,ru,1862,n,3
+t26,Gargantua And Pantagruel,François Rabelais,M,fr,1532,n,2
+t27,Germinal,Emile Zola,M,fr,1885,n,2
+t28,Heidi,Johanna Spyri,F,de,1881,n,3
+t29,Hesitation,Lu Xun,M,zh,1926,n,2
+t30,Home Of The Gentry,Ivan Turgenev,M,ru,1859,n,2
+t31,Hunger,Knut Hamsen,M,no,1890,n,3
+t32,In A Grove,Ryunosuke Akutagawa,M,ja,1922,n,2
+t33,In The Shadow Of Young Girls In Flower,Marcel Proust,M,fr,1918,n,2
+t34,Jacques The Fatalist,Denis Diderot,M,fr,1796,n,2
+t35,Journey By Moonlight,Antal Szerb,M,hu,1937,n,2
+t36,Kallocain,Karin Boye,F,sv,1940,n,2
+t37,Kappa,Ryunosuke Akutagawa,M,ja,1927,n,2
+t38,Kokoro,Natsume Soseki,M,ja,1914,n,2
+t39,Kristin Lavransdatter 1 The Wreath,Sigrid Undset,F,no,1920,n,2
+t40,Kristin Lavransdatter 2 The Wife,Sigrid Undset,F,no,1920,n,2
+t41,Kristin Lavransdatter 3 The Cross,Sigrid Undset,F,no,1922,n,2
+t42,Kusamakura,Natsume Soseki,M,ja,1906,n,2
+t43,Lassommoir,Emile Zola,M,fr,1877,n,2
+t44,Les Miserables 1,Victor Hugo,M,fr,1862,n,3
+t45,Les Miserables 2,Victor Hugo,M,fr,1862,y,3
+t46,Les Miserables 3,Victor Hugo,M,fr,1862,y,3
+t47,Madame Bovary,Gustave Flaubert,M,fr,1856,n,2
+t48,Manon Lescaut,Antoine François Prevost,M,fr,1731,n,2
+t49,Mysteries,Knut Hamsen,M,no,1892,n,2
+t50,Nana,Emile Zola,M,fr,1880,n,3
+t51,No Longer Human,Osamu Dazai,M,ja,1948,n,2
+t52,Notes From Underground,Fyodor Dostoevsky,M,ru,1864,n,3
+t53,Oblomov,Ivan Goncharov,M,ru,1859,n,3
+t54,Petersburg,Andrei Bely,M,ru,1913,n,3
+t55,Pinocchio,Carlo Collodi,M,it,1883,n,2
+t56,Ponniyin Selvan 1 The First Floods,Kalki Krishnamurthy,M,ta,1950,n,3
+t57,Poor Folk,Fyodor Dostoevsky,M,ru,1846,n,3
+t58,Rashomon,Ryunosuke Akutagawa,M,ja,1915,n,3
+t59,Romance Of The Three Kingdoms 1,Luo Guanzhong,M,zh,1399,n,2
+t60,Romance Of The Three Kingdoms 2,Luo Guanzhong,M,zh,1399,y,2
+t61,Siddhartha An Indian Tale,Hermann Hesse,M,de,1922,n,2
+t62,Steppenwolf,Hermann Hesse,M,de,1927,n,2
+t63,Strange Tales From A Chinese Studio,Pu Songling,M,zh,1740,n,2
+t64,Swanns Way,Marcel Proust,M,fr,1913,n,2
+t65,The Adventures Of Captain Hatteras,Jules Verne,M,fr,1866,n,2
+t66,The Alienist,Machado De Assis,M,pt,1881,n,2
+t67,The Blind Owl,Sadegh Hedayat,M,fa,1937,n,2
+t68,The Book Of Disquietude,Fernando Pessoa,M,pt,1982,n,2
+t69,The Captains Daughter,Aleksandr Pushkin,M,ru,1836,n,2
+t70,The Count Of Monte Cristo 1,Alexandre Dumas,M,fr,1844,n,2
+t71,The Count Of Monte Cristo 2,Alexandre Dumas,M,fr,1844,y,2
+t72,The Count Of Monte Cristo 3,Alexandre Dumas,M,fr,1844,y,2
+t73,The Dancing Girl Of Izu,Yasunari Kawabata,M,ja,1926,n,2
+t74,The Death Of Ivan Ilyich,Leo Tolstoy,M,ru,1886,n,3
+t75,The Debacle,Emile Zola,M,fr,1892,n,2
+t76,The Diary Of A Young Girl,Anne Frank,F,nl,1947,n,2
+t77,The Fortune Of The Rougons,Emile Zola,M,fr,1871,n,2
+t78,The Gentleman From San Francisco,Ivan Bunin,M,ru,1915,n,3
+t79,The Good Soldier Schweik 1 Behind The Lines,Jaroslav Hasek,M,cs,1921,n,2
+t80,The Good Soldier Schweik 2 At The Front,Jaroslav Hasek,M,cs,1922,n,2
+t81,The Good Soldier Schweik 3 The Glorious Licking,Jaroslav Hasek,M,cs,1922,n,2
+t82,The Hunchback Of Notre Dame,Victor Hugo,M,fr,1833,n,2
+t83,The Idiot,Fyodor Dostoevsky,M,ru,1868,n,4
+t84,The Journey To The West,Wu Cheng-En,M,zh,1592,n,4
+t85,The Kill,Emile Zola,M,fr,1871,n,2
+t86,The Kreutzer Sonata,Leo Tolstoy,M,ru,1889,n,2
+t87,The Little Prince,Antoine De Saint-Exupery,M,fr,1943,n,2
+t88,The Magic Mountain,Thomas Mann,M,de,1924,n,2
+t89,The Manuscript Found In Saragossa,Jan Potocki,M,pl,1805,n,2
+t90,The Master And Margarita,Mikhail Bulgakov,M,ru,1966,n,2
+t91,The Mate Mattia Pascal,Luigi Pirandello,M,it,1904,n,2
+t92,The Metamorphosis,Franz Kafka,M,de,1915,n,3
+t93,The Notebooks Of Malte Laurids Brigge,Rainer Maria Rilke,M,de,1910,n,3
+t94,The Nun,Denis Diderot,M,fr,1780,n,2
+t95,The Phantom Of The Opera,Gaston Leroux,M,fr,1909,n,3
+t96,The Posthumous Memoirs Of Bras Cubas,Joaquim Maria Machado De Assis,M,pt,1881,n,2
+t97,The Queen Of Spades,Alexander Pushkin,M,ru,1834,n,2
+t98,The Red And The Black,Stendhal,M,fr,1830,n,2
+t99,The Sin Of Abbe Mouret,Emile Zola,M,fr,1875,n,2
+t100,The Sorrows Of Young Werther,Johann Wolfgang Von Goethe,M,de,1774,n,2
+t101,The Story Of Gosta Berling,Selma Lagerlof,F,sv,1891,n,2
+t102,The Three Musketeers,Alexandre Dumas,M,fr,1844,n,2
+t103,The Trial,Franz Kafka,M,de,1925,n,4
+t104,Twenty Thousand Leagues Under The Sea,Jules Verne,M,fr,1869,n,3
+t105,Venus In Furs,Leopold Von Sacher-Masoch,M,de,1870,n,2
+t106,Voyage Around My Room,Xavier De Maistre,M,fr,1794,n,2
+t107,War And Peace 1,Leo Tolstoy,M,ru,1865,n,2
+t108,War And Peace 2,Leo Tolstoy,M,ru,1865,y,2
+t109,War And Peace 3,Leo Tolstoy,M,ru,1865,y,2
+t110,War With The Newts,Karel Capek,M,cs,1936,n,2
+t111,We,Yevgeny Zamyatin,M,ru,1920,n,5
+t112,Wild Geese,Mori Ogai,M,ja,1911,n,2
